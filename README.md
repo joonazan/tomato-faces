@@ -4,6 +4,8 @@ This repository contains code that downloads images from Google image search and
 
 ## Running
 
+Clone https://github.com/NVlabs/stylegan2-ada-pytorch.git into this directory.
+
 Run train.sh. You may have to install some python packages to make it work.
 
 ## Viewing results
